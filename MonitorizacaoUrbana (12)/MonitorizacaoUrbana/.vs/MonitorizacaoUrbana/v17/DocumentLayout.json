@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Miguel\\Documents\\GitHub\\Sistemas-Distribuidos\\MonitorizacaoUrbana (12)\\MonitorizacaoUrbana\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C3333333-3333-3333-3333-333333333333}|Sensor\\Sensor.csproj|c:\\users\\miguel\\documents\\github\\sistemas-distribuidos\\monitorizacaourbana (12)\\monitorizacaourbana\\sensor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3333333-3333-3333-3333-333333333333}|Sensor\\Sensor.csproj|solutionrelative:sensor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|Servidor\\Servidor.csproj|c:\\users\\miguel\\documents\\github\\sistemas-distribuidos\\monitorizacaourbana (12)\\monitorizacaourbana\\servidor\\servidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|Servidor\\Servidor.csproj|solutionrelative:servidor\\servidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\MonitorizacaoUrbana (12)\\MonitorizacaoUrbana\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,35 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\GitHub\\Sistemas-Distribuidos\\MonitorizacaoUrbana (12)\\MonitorizacaoUrbana\\Sensor\\Program.cs",
-              "RelativeDocumentMoniker": "Sensor\\Program.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Documents\\GitHub\\Sistemas-Distribuidos\\MonitorizacaoUrbana (12)\\MonitorizacaoUrbana\\Sensor\\Program.cs",
-              "RelativeToolTip": "Sensor\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T13:53:49.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Servidor.csproj",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\GitHub\\Sistemas-Distribuidos\\MonitorizacaoUrbana (12)\\MonitorizacaoUrbana\\Servidor\\Servidor.csproj",
-              "RelativeDocumentMoniker": "Servidor\\Servidor.csproj",
-              "ToolTip": "C:\\Users\\Miguel\\Documents\\GitHub\\Sistemas-Distribuidos\\MonitorizacaoUrbana (12)\\MonitorizacaoUrbana\\Servidor\\Servidor.csproj",
-              "RelativeToolTip": "Servidor\\Servidor.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-14T13:53:17.051Z"
             },
             {
               "$type": "Bookmark",
